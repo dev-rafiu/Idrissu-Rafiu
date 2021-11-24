@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Idrissu-Rafiu
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning web developement technologies(html5,css3 and js)
+- 🌱 I’m currently learning web developement technologies-HTML5 | CSS3 | VanillaJS
 - 📫 How to reach me (alboraizoai@gmail.com)
 
 <!---
